@@ -42,7 +42,7 @@ public class MainActivity extends RecyclerViewActivity {
         }
     }
 
-    static class FilaHolder extends RecyclerView.ViewHolder {
+    /*static class FilaHolder extends RecyclerView.ViewHolder {
         TextView etiqueta = null;
         TextView tamanyo = null;
         ImageView icono = null;
@@ -66,5 +66,5 @@ public class MainActivity extends RecyclerViewActivity {
                 icono.setImageResource(android.R.drawable.btn_star_big_on);
             }
         }
-    }
+    }*/
 }
